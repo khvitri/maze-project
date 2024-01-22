@@ -1,0 +1,6 @@
+Press "b" for breadth first search
+Press "d" for depth first search
+Press "n" for a new maze
+Press "r" to reset the current maze
+
+To change dimension of the MazeWorld go to ExampleMaze.java -> Scroll to line 195 and adjust to preference
